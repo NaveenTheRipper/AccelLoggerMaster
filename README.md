@@ -1,4 +1,4 @@
-# Acceleration Logger with ESP32 + ADXL313 + RV-8803 + SD Card
+# 3-axis Acceleration Data Acquisition System
 
 This project logs 3-axis acceleration data from an ADXL313 accelerometer to a microSD card, timestamped using an RV-8803 RTC. It is powered by an ESP32 using FreeRTOS to offload the logging task to a dedicated core.
 
